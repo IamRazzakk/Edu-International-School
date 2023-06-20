@@ -1,0 +1,41 @@
+.Bg-area{
+    height: 100%;
+    width: 100%;
+}
+.carousel-inner{
+    padding: 15px;
+    filter: brightness(-30px);
+    border-radius: 15px;
+}
+.mission{
+    padding: 20px 10px;
+    background-color: whitesmoke;
+}
+.card{
+    margin: 10px;
+    border-radius: 10px;
+    background-color: white;
+}
+.ban{
+    font-weight: bold;
+    font-style: oblique;
+    color: cadetblue;
+    background-color: white;
+    width: 100px;
+    border-radius: 10px;
+}
+.btn-outline-success{
+    border-radius: 10px;
+}
+.btn-success{
+    border-radius: 10px;
+    background-color: white;
+    color: white;
+    width: 130px;
+    height: 40px;
+    border-color: white;
+}
+.footer {
+    margin: 30px;
+    font-weight: bold;
+}
